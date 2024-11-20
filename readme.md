@@ -8,8 +8,8 @@
 
 ## ToDo
 - [x] Release source code.
-- [] Train SLM.
-- [] SFT.
+- [ ] Train SLM.
+- [ ] SFT.
 
 ## Start train
 ```shell
